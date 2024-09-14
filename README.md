@@ -93,9 +93,7 @@ Markdown      24 mins         ▓░░░░░░░░░░░░░░░�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-martial&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
-## 📈 Contributions
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=roberto-martial&hide_title=true&hide_border=true&theme=radical)
 
 ## 🌟 My Most Recent Projects
 
