@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I am a passionate data science student with experience in software development and a keen interest in machine learning and data analysis. Currently, I am pursuing a degree in data science and seeking to further develop my skills in the field.
+Ceci un dépôt dans lequel je met quelque un de mes projets realisé à l'ucac-icam
 
 ## 🛠️ My Favorite tools
 
