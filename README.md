@@ -87,9 +87,6 @@ Markdown      24 mins         ▓░░░░░░░░░░░░░░░�
 
 ![Samnick's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra))
 
-## 🏆 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-martial&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
 
 
