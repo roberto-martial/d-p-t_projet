@@ -66,9 +66,7 @@ I am a passionate data science student with experience in software development a
 
 ---
 
-## 📈 Stats
 
-### [![wakatime](https://wakatime.com/badge/user/018cee13-789a-4312-ba87-bff7005ff31b.svg?style=for-the-badge)](https://wakatime.com/@018cee13-789a-4312-ba87-bff7005ff31b)
 
 ### 📊 This Week I Spent My Time On
 
