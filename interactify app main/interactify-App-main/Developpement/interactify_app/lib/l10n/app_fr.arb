@@ -1,0 +1,103 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Interactify_App",
+  "@appTitle": {
+    "description": "Le titre de l'applciation"
+  },
+  "appName": "Interactify",
+  "@appName": {
+    "description": "Le nom de l'application"
+  },
+  "seeMore": "Voir plus...",
+  "@seeMore": {
+    "description": "Voir plus"
+  },
+  "seeLess": "Voir moins...",
+  "@seeLess": {
+    "description": "voir moins"
+  },
+  "forYou": "Pour vous",
+  "@forYou": {
+    "description": "For You"
+  },
+  "announces": "Annonces",
+  "@announces": {
+    "description": "Annonces"
+  },
+  "home": "Acceuil",
+  "@home": {
+    "description": "Acceuil"
+  },
+  "search": "Recherche",
+  "@search": {
+    "description": "recherche"
+  },
+  "post": "Pub",
+  "@post": {
+    "description": "publcation"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications"
+  },
+  "profil": "Profile",
+  "@profil": {
+    "description": "Profile"
+  },
+  "profilConfiguration": "Configuration de profile ",
+  "@profilConfiguration": {
+    "description": "profilConfiguration"
+  },
+  "onBoarding_page1": "vous aider à partager les meilleures vidéos avec tout le monde.",
+  "@onBoarding_page1": {
+    "description": "onBoarding_page1"
+  },
+  "onBoarding_page2": "Vous pouvez créer des moments impressionnants.",
+  "@onBoarding_page2": {
+    "description": "onBoarding_page2"
+  },
+  "onBoarding_page3": "Allez y explorer!",
+  "@onBoarding_page3": {
+    "description": "onBoarding_page3"
+  },
+  "editionProfile": "Editer le profil",
+  "@editionProfile": {
+    "description": "editionProfile"
+  },
+  "preferences": "Preferences",
+  "@preferences": {
+    "description": "preferences"
+  },
+  "langue": "Langue",
+  "@langue": {
+    "description": "langue"
+  },
+  "modeSombre": "Mode sombre",
+  "@modeSombre": {
+    "description": "modeSombre"
+  },
+  "posts": "Publications",
+  "@posts": {
+    "description": "posts"
+  },
+  "anglais": "Anglais",
+  "@anglais": {
+    "description": "anglais"
+  },
+  "francais": "Francais",
+  "@francais": {
+    "description": "francais"
+  },
+  "publicationShowBar": "La description de l'image est requise",
+  "@publicationShowBar": {
+    "description": "publicationShowBar"
+  },
+  "profileMessage": "Bienvenue dans mon univers. Je domine le monde et j’ai des amis.",
+  "@profileMessage": {
+    "description": "profileMessage"
+  },
+  "noPublication": "Pas de publications disponibles",
+  "@noPublication": {
+    "description": "noPublication"
+  }
+}

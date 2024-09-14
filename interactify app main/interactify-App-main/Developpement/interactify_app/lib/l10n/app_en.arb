@@ -1,0 +1,103 @@
+{
+  "@@locale": "en",
+  "appTitle": "Interactify_App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "appName": "Interactify",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "seeMore": "See more...",
+  "@seeMore": {
+    "description": "See more"
+  },
+  "seeLess": "See less...",
+  "@seeLess": {
+    "description": "See less"
+  },
+  "forYou": "For You",
+  "@forYou": {
+    "description": "For You"
+  },
+  "announces": "Announcements",
+  "@announces": {
+    "description": "Announcements"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search"
+  },
+  "post": "Post",
+  "@post": {
+    "description": "Publication"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications"
+  },
+  "profil": "Profile",
+  "@profil": {
+    "description": "Profile"
+  },
+  "profilConfiguration": "Profile Configuration",
+  "@profilConfiguration": {
+    "description": "Profile Configuration"
+  },
+  "onBoarding_page1": "Helping you share the best videos with everyone.",
+  "@onBoarding_page1": {
+    "description": "First onboarding page"
+  },
+  "onBoarding_page2": "You can create impressive moments.",
+  "@onBoarding_page2": {
+    "description": "Second onboarding page"
+  },
+  "onBoarding_page3": "Go explore!",
+  "@onBoarding_page3": {
+    "description": "Third onboarding page"
+  },
+  "editionProfile": "Edit Profile",
+  "@editionProfile": {
+    "description": "Edit Profile"
+  },
+  "preferences": "Preferences",
+  "@preferences": {
+    "description": "Preferences"
+  },
+  "langue": "Language",
+  "@langue": {
+    "description": "Language"
+  },
+  "modeSombre": "Dark Mode",
+  "@modeSombre": {
+    "description": "Dark Mode"
+  },
+  "posts": "Posts",
+  "@posts": {
+    "description": "Posts"
+  },
+  "anglais": "English",
+  "@anglais": {
+    "description": "English"
+  },
+  "francais": "French",
+  "@francais": {
+    "description": "French"
+  },
+  "publicationShowBar": "Image description is required",
+  "@publicationShowBar": {
+    "description": "Message displayed when a publication description is required"
+  },
+  "profileMessage": "Welcome to my world. I dominate the world and I have friends.",
+  "@profileMessage": {
+    "description": "User profile message"
+  },
+  "noPublication": "No posts available",
+  "@noPublication": {
+    "description": "Message displayed when no posts are available"
+  }
+}
