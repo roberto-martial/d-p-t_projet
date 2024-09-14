@@ -1,0 +1,12 @@
+- Une thermistance CTN 10KOhms à 25°C ou diode ou sonde PT100
+- Une breadboard
+- Une carte arduino + un câble USB
+- Des fils conducteurs
+- Un Mini-frigo
+- Un pile entre 7V et 9V
+-  Jeu de résistances (3 entre 100Ohms et 150Ohms et 10 de 10KOhms)
+- Un DHT11 ou DHT22
+- Un transistor MOSFET
+- Un AOP LM324N
+- Un multimetre
+ 

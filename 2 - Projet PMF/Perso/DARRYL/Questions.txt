@@ -1,0 +1,10 @@
+- chercher le role de la fonction isnan en arduino
+- determiner si l'unite a la fin du calcul du point de rosee est en kelvin ou deja en celsius
+- savoir si ce n'est que lorsqu'il y a egalite entre la temperature interne de la canette et le point 
+de rosee qu'il y a condensation ou bien si meme qu'il soit superieur ou superieur ou egal au point 
+de rosee il peut toujours y avoir ce phenomene
+- est-ce la temperature interne de la canette qui doit etre comparee au point de rosee ou plutot celle
+du module a effet peltier
+- trouver comment le controle de la puissance du module permet l'utilisation de sa fonction de chauffage,
+de refroidissement ou bien les deux
+
