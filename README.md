@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Ceci un dépôt dans lequel je met quelque un de mes projets realisé à l'ucac-icam
+Ceci un dépôt dans lequel je met quelques un de mes projets realisés lors de mes 3ans de license  à l'ucac-icam et certains projets personnels pour l'admission au Mila
 
 ## 🛠️ My Favorite tools
 
