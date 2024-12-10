@@ -4,7 +4,7 @@ Implementation and analysis of a meta-heuristic (genetic algorithm) solving the 
 
 ## Members
 
-- [**sikati-kenmogne**](https://github.com/sikatikenmogne) (chief)
+- [**samnick tong roberto martial**](https://github.com/roberto-martial) (chief)
 - [**Faris2045**](https://github.com/Faris2045)
 - [**erwann-axel**](https://github.com/erwann-axel)
 - [**kevinfloride**](https://github.com/kevinfloride)
@@ -15,7 +15,7 @@ Implementation and analysis of a meta-heuristic (genetic algorithm) solving the 
 
 Member | Role | Tasks | Details
 --- | --- | --- | ---
- [**sikati-kenmogne**](https://github.com/sikatikenmogne) | Chief | `Setup the project` <br/> `Definition of the problem's data structure`   |
+ [**sam,ick tong roberto martial**](https://github.com/samnick-roberto) | Chief | `Setup the project` <br/> `Definition of the problem's data structure`   |
  [**Faris2045**](https://github.com/Faris2045) |   |  `Calculating the parameters of an instance`  |
  [**mr-tchounga**](https://github.com/mr-tchounga) |   |  `The neighbourhood data structure`  |  
  [**kevinfloride**](https://github.com/kevinfloride) |   |  `Calculation of algorithm behavioural statistics`  |
